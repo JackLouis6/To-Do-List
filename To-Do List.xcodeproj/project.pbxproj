@@ -14,6 +14,7 @@
 		3FE69112278C98E400AB29E7 /* To_Do_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE69111278C98E400AB29E7 /* To_Do_ListTests.swift */; };
 		3FE6911D278C98E400AB29E7 /* To_Do_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE6911C278C98E400AB29E7 /* To_Do_ListUITests.swift */; };
 		3FFFDEFD278F3C8900AF633E /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFFDEFC278F3C8900AF633E /* ToDoList.swift */; };
+		3FFFDEFF278F3E6000AF633E /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFFDEFE278F3E6000AF633E /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3FE6911C278C98E400AB29E7 /* To_Do_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITests.swift; sourceTree = "<group>"; };
 		3FE6911E278C98E400AB29E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FFFDEFC278F3C8900AF633E /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		3FFFDEFE278F3E6000AF633E /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				3FE690FF278C98E100AB29E7 /* To_Do_ListApp.swift */,
 				3FE69101278C98E100AB29E7 /* ContentView.swift */,
+				3FFFDEFE278F3E6000AF633E /* AddItemView.swift */,
 				3FFFDEFC278F3C8900AF633E /* ToDoList.swift */,
 				3FE69103278C98E300AB29E7 /* Assets.xcassets */,
 				3FE69108278C98E300AB29E7 /* Info.plist */,
@@ -265,6 +268,7 @@
 				3FE69102278C98E100AB29E7 /* ContentView.swift in Sources */,
 				3FFFDEFD278F3C8900AF633E /* ToDoList.swift in Sources */,
 				3FE69100278C98E100AB29E7 /* To_Do_ListApp.swift in Sources */,
+				3FFFDEFF278F3E6000AF633E /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
